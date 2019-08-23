@@ -1,0 +1,6 @@
+https://gentoostudio.org/src/catalyst/stage1.spec
+https://gentoostudio.org/src/catalyst/stage2.spec
+https://gentoostudio.org/src/catalyst/stage3.spec
+https://gentoostudio.org/src/catalyst/stage4.spec
+https://gentoostudio.org/src/catalyst/fsscript.sh
+https://gentoostudio.org/src/builds/complete/limits.conf
